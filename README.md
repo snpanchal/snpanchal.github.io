@@ -1,2 +1,2 @@
 # snpanchal.github.io
-Personal website
+Personal website: [snpanchal.github.io](https://snpanchal.github.io)
